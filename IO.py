@@ -25,3 +25,6 @@ infile.close()
 outfile = open("outfile.txt","w")
 outfile.write(line1)
 outfile.close()
+
+print("")
+print("Done!")

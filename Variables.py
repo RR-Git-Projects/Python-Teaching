@@ -36,3 +36,6 @@ print(type(var1/var2))
 var5=var1/var2
 
 print(type(var5))
+
+print("")
+print("Done!")

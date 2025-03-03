@@ -39,4 +39,5 @@ try:
 except:
     print("I told you to enter a number!!! :(")
 
+print("")
 print("Done!")
